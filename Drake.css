@@ -1,0 +1,26 @@
+ body {
+ background-image: linear-gradient(195deg, rgb(180,206,217) 50%, rgb(88,126,140) 50%)
+}
+
+p {
+	font-family: ubuntu, sans-serif;
+}
+
+h1 {
+	font-family: 'Odibee Sans', serif;
+	font-size: 56px;
+}
+
+h2 {
+	font-family: 'Odibee Sans', serif;
+	font-size: 32px;
+}
+
+h4 {
+	font-family: 'Odibee Sans', serif;
+	font-size: 28px;
+}
+
+li {
+	font-family: ubuntu, sans-serif;
+}
