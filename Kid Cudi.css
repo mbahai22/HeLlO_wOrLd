@@ -4,27 +4,42 @@
 
 p {
 	font-family: ubuntu, sans-serif;
-	  margin-top: 100px;
-	  margin-bottom: 100px;
-	  margin-right: 100px;
-	  margin-left: 100px;
+  margin-right: 100px;
+  margin-left: 50px;
 }
 
 h1 {
 	font-family: 'Odibee Sans', serif;
 	font-size: 56px;
+	 margin-right: 100px;
+  	  margin-left: 20px;
+	 
 }
 
 h2 {
 	font-family: 'Odibee Sans', serif;
 	font-size: 32px;
+	 margin-right: 100px;
+  	  margin-left: 20px;
 }
 
 h4 {
 	font-family: 'Odibee Sans', serif;
 	font-size: 28px;
+	 margin-right: 100px;
+  	  margin-left: 20px;
 }
 
 li {
 	font-family: ubuntu, sans-serif;
+}
+
+ul {
+  margin-right: 100px;
+  margin-left: 50px;
+	 margin-bottom: 20px;
+}
+
+table {
+	margin-top: 20px;
 }
